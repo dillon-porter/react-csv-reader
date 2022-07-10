@@ -1,4 +1,4 @@
-- [Demo](https://dillon-porter.github.io/react-csv-reader/)
+### [Demo](https://dillon-porter.github.io/react-csv-reader/)
 
 ### If any developer would like to collaborate on this project, feel free to reach out. 
 
